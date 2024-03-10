@@ -21,4 +21,4 @@ O uso incorreto ou irracional de medicamentos pode trazer sérias consequências
  
 ## Público-Alvo
 
-Qualquer pessoa que utiliza ou auxilia quem faz uso de medicamentos, seja de uso contínuo ou por um período apenas. Aplicação será de facil utilização e bastante intuitiva, visando pessoas que possam ter dificuldade do uso de tecnologias dispositivos móveis
+Qualquer pessoa que utiliza ou auxilia quem faz uso de medicamentos, seja de uso contínuo ou por um período apenas. Aplicação será de facil utilização e bastante intuitiva, visando pessoas que possam ter dificuldade do uso de tecnologias em dispositivos móveis
