@@ -8,7 +8,24 @@ No decorrer do processo de entendimento do projeto, foram observadas pessoas com
 
 ## Personas
 
-1. Joaquim Araújo tem 29 anos, é auxiliar de almoxerifado. Possui uma doença respiratória crônica e faz uso de medicamento pelo menos 15 dias ao mês para tratar as crises de bronquite, devido também à profissão que exerce. Deseja utilizar uma ferramenta que auxilie nos horários de consumo destes medicamentos, visto que não consegue se lembrar de tomá-lo durante o expediente.
+**<h3 align="center" >Joaquim Araújo</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Joaquim.png"> **Biografia**: 
+Joaquim é auxiliar de almoxerifado de 29 anos, morando com os pais.
+ 
+
+**Metas**: 
+Tomar os medicamento na hora recomendada.
+
+ 
+**Motivação**:
+Busca melorar sua qualidade de vida.
+
+
+**Frustação**:
+Dificuldade em lembrar durante o expediente, de tomar o remédio dentro do horário.
+
+1. Joaquim Araújo tem 29 anos, . Possui uma doença respiratória crônica e faz uso de medicamento pelo menos 15 dias ao mês para tratar as crises de bronquite, devido também à profissão que exerce. Deseja utilizar uma ferramenta que auxilie nos horários de consumo destes medicamentos, visto que não consegue se lembrar de tomá-lo durante o expediente.
 2. Marina Garcia Januário tem 38 anos, é cuidadora de idosos. Além do cuidado com a higiene e alimentação, também administra os remédios dos idosos, mas ela tem uma folga por semana, e nesta folga ela precisa lembrá-los de tomar os remédios, então presisa de algo para lembrá-los, sem ela ter que ir até eles ou até mesmo fazer uma ligação.
 3. Tereza Abrantes tem 26 anos, é mãe de três filhos. Um dos seus filhos precisa consumir quatro remédios por dia, mas com a rotina de mãe de crianças pequenas, acaba se perdendo na quantidade de medicamentos que ainda restam, deste modo, almeja um auxilio para organizar-se melhor e não correr o risco de ficar sem medicamentos.
  
