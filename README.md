@@ -43,7 +43,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Código
 
-[src](https://github.com/ICEI-PUC-Minas-PMV-ADS/controle_medicamentos/tree/main/src)
+[src](https://github.com/ICEI-PUC-Minas-PMV-ADS/controle_medicamentos/tree/main/src)https://github.com/ICEI-PUC-Minas-PMV-ADS/controle_medicamentos/tree/main/src
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
