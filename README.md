@@ -7,7 +7,7 @@
 `3º SEMESTRE`
 
 
-O projeto em desenvolvimento visa criar uma aplicação móvel que auxilia a administração do uso de medicamentos, facilitando o gerenciamento do controle de estoque, períodos e horários de uso, e informações relevantes sobre tal, tendo em vista a execução do cronograma médico de uma forma correta.
+O projeto em desenvolvimento visa criar uma aplicação móvel que auxilia o uso de medicamentos, facilitando o gerenciamento do controle de estoque, períodos e horários de uso, e informações relevantes sobre tal, tendo em vista a execução do cronograma médico de uma forma correta.
 ## Integrantes
 
 * Lorena Poliane De Oliveira
