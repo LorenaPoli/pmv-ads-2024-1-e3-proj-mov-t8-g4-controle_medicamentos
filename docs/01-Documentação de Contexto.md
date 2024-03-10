@@ -1,6 +1,6 @@
 # Introdução
 
-O projeto de controle de medicamentos surgiu após a observação da rotina diária de pessoas que fazem uso de algum tipo de medicamento, tendo em vista que a administração de horários, contagem de estoque e etc, gera uma demanda, necessitando de uma ferramenta prática para auxiliar esta tarefa.
+O projeto de controle de medicamentos surgiu após a observação da rotina diária de pessoas que fazem uso de algum tipo de medicamento, tendo em vista que o gerenciamento de horários, contagem de estoque e etc, gera uma demanda, necessitando de uma ferramenta prática para auxiliar esta tarefa.
 
 ## Problema
 A taxa de erro na administração de medicamentos é considerada alta na América Latina, com destaque para o uso de medicamentos antes ou depois do horário prescrito, doses fora das recomendações e casos de omissão. O alerta é de um estudo liderado pelo Instituto de Saúde Coletiva da UFBA e publicado recentemente no periódico PLOS ONE, revista científica internacional de elevado impacto.
