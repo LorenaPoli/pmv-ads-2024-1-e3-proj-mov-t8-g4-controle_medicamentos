@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# CONTROLE DE MEDICAMENTOS
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`SEMESTRE`
+`3º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
+O projeto em desenvolvimento visa criar uma aplicação móvel que auxilia a administração do uso de medicamentos, auxiliando no gerenciamento do controle de estoque, periodos e horarios de uso, e informações relevantes sobre tal, facilitando a execução do cronograma médico de uma forma correta.
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lorena Poliane De Oliveira
+* Mario Jose Copertino Filho
+* Matheus Marques Aguiar
+* Thiago Singulano Machado
 
 ## Orientador
 
-* Nome completo do professor 1
+* Cristiano de Macêdo Neto
 
 ## Instruções de utilização
 
