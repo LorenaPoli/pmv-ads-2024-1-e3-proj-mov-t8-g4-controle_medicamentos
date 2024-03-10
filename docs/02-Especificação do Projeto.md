@@ -27,7 +27,7 @@ Dificuldade em lembrar durante o expediente, de tomar o remédio dentro do horá
 
 **<h3 align="center" >Marina Garcia Januário</h3 >**
 
-<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Marina.png"> **Biografia**: 
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Marina(2).png"> **Biografia**: 
 Marina é mãe de três filhos e tem 29 anos, mãe solteira vivendo sozinha com os filhos.
  
 
