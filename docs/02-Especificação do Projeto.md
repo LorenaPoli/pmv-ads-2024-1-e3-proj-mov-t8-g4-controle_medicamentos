@@ -11,7 +11,7 @@ No decorrer do processo de entendimento do projeto, foram observadas pessoas com
 **<h3 align="center" >Joaquim Araújo</h3 >**
 
 <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Joaquim.png"> **Biografia**: 
-Joaquim é auxiliar de almoxerifado de 29 anos, morando com os pais.
+Joaquim é auxiliar de almoxerifado e tem 29 anos, morando com os pais.
  
 
 **Metas**: 
@@ -25,10 +25,40 @@ Busca melorar sua qualidade de vida.
 **Frustação**:
 Dificuldade em lembrar durante o expediente, de tomar o remédio dentro do horário.
 
-1. Joaquim Araújo tem 29 anos, . Possui uma doença respiratória crônica e faz uso de medicamento pelo menos 15 dias ao mês para tratar as crises de bronquite, devido também à profissão que exerce. Deseja utilizar uma ferramenta que auxilie nos horários de consumo destes medicamentos, visto que não consegue se lembrar de tomá-lo durante o expediente.
-2. Marina Garcia Januário tem 38 anos, é cuidadora de idosos. Além do cuidado com a higiene e alimentação, também administra os remédios dos idosos, mas ela tem uma folga por semana, e nesta folga ela precisa lembrá-los de tomar os remédios, então presisa de algo para lembrá-los, sem ela ter que ir até eles ou até mesmo fazer uma ligação.
-3. Tereza Abrantes tem 26 anos, é mãe de três filhos. Um dos seus filhos precisa consumir quatro remédios por dia, mas com a rotina de mãe de crianças pequenas, acaba se perdendo na quantidade de medicamentos que ainda restam, deste modo, almeja um auxilio para organizar-se melhor e não correr o risco de ficar sem medicamentos.
+**<h3 align="center" >Marina Garcia Januário</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Marina.png"> **Biografia**: 
+Marina é mãe de três filhos e tem 29 anos, mãe solteira vivendo sozinha com os filhos.
  
+
+**Metas**: 
+ Organizar-se melhor e não correr o risco de ficar sem medicamentos.
+
+ 
+**Motivação**:
+Preza pelo bem estar de seus filhos.
+
+
+**Frustação**:
+Se perder na quantidade de medicamentos que ainda restam, resultando em falta de remédio para seu filho.
+
+**<h3 align="center" >Tereza Abrantes</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Tereza.png"> **Biografia**: 
+Tereza  é cuidadora de idosos e tem 38 anos, mora nas casas dos idosos que cuida e na sua folga fica na casa dos pais.
+ 
+
+**Metas**: 
+Em dias de folga não ter que ir até à casa dos idosos ou ligar para eles, a fim de orientálos à tomar os remédios.
+
+ 
+**Motivação**:
+Usufruir do dia de folga sem ter a preocupação de fazer contato com o emprego.
+
+
+**Frustação**:
+Deixar de realizar alguma atividade em dias de folga, para administrar os remédios dos idosos que cuida.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
