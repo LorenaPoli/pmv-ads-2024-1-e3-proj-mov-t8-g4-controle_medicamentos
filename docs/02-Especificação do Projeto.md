@@ -2,26 +2,16 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+O problema da desorganização de horários no consumo de medicamentos e do estoque dos mesmos pode ser resolvido com o uso desta aplicação, uma vez que através de uma simples função pode-se obter a informação do horário exato de cosumação do remédio e a contagem das doses ainda restantes, facilitando a monitorização para a compra de novos medicamentos
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+No decorrer do processo de entendimento do projeto, foram observadas pessoas com diferentes rotinas, conforme apresentadas a seguir:
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
+1. Joaquim Araújo tem 29 anos, é auxiliar de almoxerifado. Possui uma doença respiratória crônica e faz uso de medicamento pelo menos 15 dias ao mês para tratar as crises de bronquite, devido também à profissão que exerce. Deseja utilizar uma ferramenta que auxilie nos horários de consumo destes medicamentos, visto que não consegue se lembrar de tomá-lo durante o expediente.
+2. Marina Garcia Januário tem 38 anos, é cuidadora de idosos. Além do cuidado com a higiene e alimentação, também administra os remédios dos idosos, mas ela tem uma folga por semana, e nesta folga ela precisa lembrá-los de tomar os remédios, então presisa de algo para lembrá-los, sem ela ter que ir até eles ou até mesmo fazer uma ligação.
+3. Tereza Abrantes tem 26 anos, é mãe de três filhos. Um dos seus filhos precisa consumir quatro remédios por dia, mas com a rotina de mãe de crianças pequenas, acaba se perdendo na quantidade de medicamentos que ainda restam, deste modo, almeja um auxilio para organizar-se melhor e não correr o risco de ficar sem medicamentos.
+ 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
