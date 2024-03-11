@@ -73,11 +73,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+A falta de organização no estoque de medicamentos de pessoas que fazem uso contínuo de remédios e o esquecimento do consumo destes nos horários prescritos, podem ser resolvidos hoje com o uso de tabelas de controle de estoque e despertadores para auxiliar nessas dificuldades, mas com este projeto, podemos resolver esse problema em uma única aplicação. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Este projeto visa proporcionar à qualquer pessoa, ter em suas mãos uma única aplicação, que possua essas duas funções: notificações para lembrar de tomar os remédios na hora exata e o aviso de quanto ainda resta de estoque, para evitar a falta dos mesmos.
 
 ### Processo 1 – NOME DO PROCESSO
 
