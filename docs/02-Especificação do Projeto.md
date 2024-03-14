@@ -2,25 +2,62 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+O problema da desorganização de horários no consumo de medicamentos e do estoque dos mesmos pode ser resolvido com o uso desta aplicação, uma vez que através de uma simples função pode-se obter a informação do horário exato de cosumação do remédio e a contagem das doses ainda restantes, facilitando a monitorização para a compra de novos medicamentos
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+No decorrer do processo de entendimento do projeto, foram observadas pessoas com diferentes rotinas, conforme apresentadas a seguir:
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+**<h3 align="center" >Joaquim Araújo</h3 >**
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Joaquim.png"> **Biografia**: 
+Joaquim é auxiliar de almoxerifado e tem 29 anos, morando com os pais.
+ 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+**Metas**: 
+Tomar os medicamento na hora recomendada.
+
+ 
+**Motivação**:
+Busca melorar sua qualidade de vida.
+
+
+**Frustação**:
+Dificuldade em lembrar durante o expediente, de tomar o remédio dentro do horário.
+
+**<h3 align="center" >Marina Garcia Januário</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Marina.png"> **Biografia**: 
+Marina é mãe de três filhos e tem 29 anos, mãe solteira vivendo sozinha com os filhos.
+ 
+
+**Metas**: 
+ Organizar-se melhor e não correr o risco de ficar sem medicamentos.
+
+ 
+**Motivação**:
+Preza pelo bem estar de seus filhos.
+
+
+**Frustação**:
+Se perder na quantidade de medicamentos que ainda restam, resultando em falta de remédio para seu filho.
+
+**<h3 align="center" >Tereza Abrantes</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Tereza.png"> **Biografia**: 
+Tereza  é cuidadora de idosos e tem 38 anos, mora nas casas dos idosos que cuida e na sua folga fica na casa dos pais.
+ 
+
+**Metas**: 
+Em dias de folga não ter que ir até à casa dos idosos ou ligar para eles, a fim de orientálos à tomar os remédios.
+
+ 
+**Motivação**:
+Usufruir do dia de folga sem ter a preocupação de fazer contato com o emprego.
+
+
+**Frustação**:
+Deixar de realizar alguma atividade em dias de folga, para administrar os remédios dos idosos que cuida.
 
 ## Histórias de Usuários
 
@@ -28,27 +65,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+|Joaquim Araújo  | Administrar remédios na horá correta           | Não esquecer de fazê-los               |
+|Marina Garcia Januário       | Organizar e controlar o estoque de medicamentos                 | Não faltar medicamentos |
+|Tereza Abrantes  | Programar o lembrete de hora de consumo de medicamentos           | Não perder oportunidades em dias de folga|
 
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+A falta de organização no estoque de medicamentos de pessoas que fazem uso contínuo de remédios e o esquecimento do consumo destes nos horários prescritos, podem ser resolvidos hoje com o uso de tabelas de controle de estoque e despertadores para auxiliar nessas dificuldades, mas com este projeto, podemos resolver esse problema em uma única aplicação. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+Este projeto visa proporcionar à qualquer pessoa, ter em suas mãos uma única aplicação, que possua essas duas funções: notificações para lembrar de tomar os remédios na hora exata e o aviso de quanto ainda resta de estoque, para evitar a falta dos mesmos.
 
 ### Processo 1 – NOME DO PROCESSO
 
